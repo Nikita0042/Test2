@@ -1,5 +1,8 @@
+#include <string>
 using namespace std;
 int main()
 {
-cout<<"Hellow world";
+string name;
+cin>>name;
+cout<<"Hello world from"<<name;
 }
