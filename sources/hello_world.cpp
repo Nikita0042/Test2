@@ -2,8 +2,8 @@
 int main()
 {
 string name;
-//Ввод имени
+// Input name
 std::cin>>name;
-//Печать 
+// Print 
 std::cout<<"Hello world from"<<name;
 }
